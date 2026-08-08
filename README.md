@@ -18,7 +18,7 @@ The goal of this project is to transform HR data into an interactive and easy-to
 
 ## 🖼️ Dashboard Preview
 
-![HR Analytics Dashboard](image.png)
+![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
 
 ---
 
